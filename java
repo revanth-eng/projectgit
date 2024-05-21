@@ -13,4 +13,10 @@ public static void main(String args[])
 java program file
 this file is written by revanth
 created on 10th may
+<<<<<<< HEAD
  im doing stashfile program
+=======
+ this is modified on 21 may
+ this is one code
+
+>>>>>>> 53546d7a454f5c4f43fe411d611b468a28c9c150
